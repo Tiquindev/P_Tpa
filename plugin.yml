@@ -1,0 +1,10 @@
+name: P_Tpa
+author: Patrickbraon
+version: 1.0
+main: me.Patricktopgames.Main
+depend: [JsonApi]
+commands:
+  tpa:
+  tpaceitar:
+  tprecusar:
+  tpdesativar:
